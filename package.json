@@ -1,6 +1,6 @@
 {
   "name": "async-benchmark",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Thin wrapper around benchmark.js to run asyncronous benchmarks (because I always forget the API)",
   "main": "async-benchmark.js",
   "dependencies": {
